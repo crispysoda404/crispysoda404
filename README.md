@@ -1,16 +1,21 @@
-## Hi there 👋
+# hi
 
-<!--
-**crispysoda404/crispysoda404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## i do a thing
+### it’s called game development
 
-Here are some ideas to get you started:
+it’s lowk pretty fun
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i mostly work with:
+- python
+- roblox / lua
+- modulescripts that make stuff not hard as hell to code
+- gml
+- C (sometimes because i hate it)
+
+i like making tools more than pretending i’m a genius  
+if something is annoying to use, i try to fix it
+
+i also refuse to use HTML because its not a real language and i refuse to listen to anyone who does use it :3
+
+
+check out the pinned stuff fr fr ↓
